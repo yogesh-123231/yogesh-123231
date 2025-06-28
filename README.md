@@ -1,9 +1,16 @@
 # 👋 Hello, I'm Yogesh!
 
+## 👋 About Me
+
 🌱 A passionate **Frontend Developer** from India  
-🎯I'm passionate about crafting beautiful, high-performance web apps — currently exploring **Next.js**, learning **backend logic**, integrating **databases**, and experimenting with **UI animations** for that extra sparkle ✨
+🎯 I love crafting beautiful, high-performance web apps — currently exploring:  
+&nbsp;&nbsp;&nbsp;&nbsp;• **Next.js** for full-stack development  
+&nbsp;&nbsp;&nbsp;&nbsp;• **Backend logic** and API integration  
+&nbsp;&nbsp;&nbsp;&nbsp;• **Databases** like MongoDB/PostgreSQL  
+&nbsp;&nbsp;&nbsp;&nbsp;• **UI animations** for smooth user experiences ✨  
 💬 Ask me about: **React**, **Tailwind CSS**, **GitHub Projects**  
-📫 Reach me at: [MyGmail](yogeshdumane987@gmail.com)
+📫 Reach me at: [yogeshdumane987@gmail.com](mailto:yogeshdumane987@gmail.com)
+
 
 ---
 
