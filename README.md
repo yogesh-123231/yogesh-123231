@@ -1,9 +1,9 @@
 # 👋 Hello, I'm Yogesh!
 
 🌱 A passionate **Frontend Developer** from India  
-🎯 Currently learning: **Next.js**, **API integration**, **UI animations**  
+🎯I'm passionate about crafting beautiful, high-performance web apps — currently exploring **Next.js**, learning **backend logic**, integrating **databases**, and experimenting with **UI animations** for that extra sparkle ✨
 💬 Ask me about: **React**, **Tailwind CSS**, **GitHub Projects**  
-📫 Reach me at: [your.email@gmail.com](yogeshdumane987@gmail.com)
+📫 Reach me at: [MyGmail](yogeshdumane987@gmail.com)
 
 ---
 
