@@ -268,16 +268,16 @@ const yogesh = {
 
 <div align="center">
 
-<a href="https://leetcode.com/yogesh-123231/">
+<a href="https://leetcode.com/u/Yogeshdumane05/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 &nbsp;
-<a href="https://www.geeksforgeeks.org/user/yogesh-123231/">
+<a href="https://www.geeksforgeeks.org/profile/yogeshduo8xg?tab=activity">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.hackerrank.com/yogesh-123231/">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+<a href="https://www.naukri.com/code360/profile/9a90567a-e4ab-4af4-8b8c-998cc2448f14">
+ <img src="https://img.shields.io/badge/Code360-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" />
 </a>
 
 
