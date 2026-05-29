@@ -232,6 +232,72 @@ const yogesh = {
 
 ---
 
+## 🏆 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/yogesh-123231/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/user/yogesh-123231/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/yogesh-123231/">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/yogesh-123231/">
+  <img src="https://leetcard.jacoblin.cool/yogesh-123231?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" width="495" />
+</a>
+
+</div>
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<br/>
+<a href="mailto:yogeshdumane987@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<br/>
+<sub>yogeshdumane987@gmail.com</sub>
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<a href="https://www.linkedin.com/in/yogeshdumane/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br/>
+<sub>linkedin.com/in/yogeshdumane</sub>
+<br/><br/>
+</td>
+<td align="center" width="33%">
+<br/>
+<a href="https://github.com/yogesh-123231">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br/>
+<sub>github.com/yogesh-123231</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=Open+to+Opportunities+%F0%9F%9F%A2&fontSize=20&fontColor=a78bfa&fontAlignY=65" />
