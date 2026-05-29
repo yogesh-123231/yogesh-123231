@@ -136,14 +136,14 @@ const yogesh = {
 <br/>
 <img src="https://img.shields.io/badge/CLIENT_PROJECT_02-✅_LIVE_IN_PRODUCTION-22c55e?style=for-the-badge&labelColor=0f172a" />
 <br/><br/>
-<strong>🏢 [Client 2 Name]</strong>
+<strong>🏢 Saraswati Classes</strong>
 <br/><br/>
-<em>Add a one-line description of your second client project here — what it does and who it serves.</em>
+<em>Freelance — Full-stack coaching platform with admin panel, course listings & student enquiry flow. Owned the complete frontend end-to-end.</em>
 <br/><br/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <br/><br/>
-<a href="#"><img src="https://img.shields.io/badge/🌐_View_Live_Site-yoursite.com-6366f1?style=flat-square" /></a>
+<a href="https://www.saraswaticlass.in/"><img src="https://img.shields.io/badge/🌐_View_Live_Site-yoursite.com-6366f1?style=flat-square" /></a>
 <br/><br/>
 </td>
 
@@ -248,11 +248,6 @@ const yogesh = {
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
 </a>
 
-<br/><br/>
-
-<a href="https://leetcode.com/yogesh-123231/">
-  <img src="https://leetcard.jacoblin.cool/yogesh-123231?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" width="495" />
-</a>
 
 </div>
 
@@ -269,8 +264,8 @@ const yogesh = {
 <a href="mailto:yogeshdumane987@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<br/>
-<sub>yogeshdumane987@gmail.com</sub>
+
+
 <br/><br/>
 </td>
 <td align="center" width="33%">
@@ -278,8 +273,8 @@ const yogesh = {
 <a href="https://www.linkedin.com/in/yogeshdumane/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<br/>
-<sub>linkedin.com/in/yogeshdumane</sub>
+
+
 <br/><br/>
 </td>
 <td align="center" width="33%">
@@ -287,8 +282,8 @@ const yogesh = {
 <a href="https://github.com/yogesh-123231">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<br/>
-<sub>github.com/yogesh-123231</sub>
+
+
 <br/><br/>
 </td>
 </tr>
