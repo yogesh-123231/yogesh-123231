@@ -28,7 +28,11 @@
 
 ---
 
+<div align="center">
+
 ## `whoami`
+
+</div>
 
 ```typescript
 const yogesh = {
@@ -44,7 +48,11 @@ const yogesh = {
 
 ---
 
+<div align="center">
+
 ## ⚡ Tech Stack
+
+</div>
 
 <div align="center">
 
@@ -107,7 +115,11 @@ const yogesh = {
 
 ---
 
+<div align="center">
+
 ## 🤝 Real-World Client Work
+
+</div>
 
 <div align="center">
 
@@ -156,7 +168,11 @@ const yogesh = {
 
 ---
 
+<div align="center">
+
 ## 🧠 Why Hire Me
+
+</div>
 
 <div align="center">
 <br/>
@@ -177,7 +193,11 @@ const yogesh = {
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Stats
+
+</div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yogesh-123231&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&icon_color=a78bfa&title_color=a78bfa" />
@@ -194,7 +214,11 @@ const yogesh = {
 
 ---
 
+<div align="center">
+
 ## 📡 Currently Exploring
+
+</div>
 
 <div align="center">
 
@@ -219,7 +243,11 @@ const yogesh = {
 
 ---
 
+<div align="center">
+
 ## 🎓 Education
+
+</div>
 
 <div align="center">
 
@@ -232,7 +260,11 @@ const yogesh = {
 
 ---
 
+<div align="center">
+
 ## 🏆 Coding Profiles
+
+</div>
 
 <div align="center">
 
@@ -253,7 +285,11 @@ const yogesh = {
 
 ---
 
+<div align="center">
+
 ## 📬 Contact
+
+</div>
 
 <div align="center">
 
