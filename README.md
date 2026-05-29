@@ -107,38 +107,72 @@ const yogesh = {
 
 ---
 
-## 🚀 Projects
+## 🤝 Real-World Client Work
 
 <div align="center">
 
-| | Project | What it does | Stack | |
-|:---:|---|---|---|:---:|
-| 🛍️ | **[Solara](https://github.com/yogesh-123231/Solara_v2)** | Production MERN e-commerce — Stripe payments, admin dashboard, coupons, auth | `React` `Node` `MongoDB` `Stripe` | [Live ↗](https://solara-v2.vercel.app/) |
-| 💼 | **[Job Portal](https://github.com/yogesh-123231/Job-Portal)** | Real-time job board — multi-filter, Firebase auth, live Supabase DB | `React` `Supabase` `Firebase` `Tailwind` | [Live ↗](https://job-portal24.netlify.app/) |
-| 🎓 | **[Rise N Shine](https://www.risenshinecoaching.in/)** ⭐ *Client* | Freelance — EdTech coaching platform, live & in production | `React` `Framer Motion` `Tailwind` | [Live ↗](https://www.risenshinecoaching.in/) |
-| 🌐 | **[Portfolio](https://github.com/yogesh-123231)** | 3D Spline hero, shadcn/ui, animations, dark theme | `React` `TypeScript` `Spline` `shadcn` | [Live ↗](#) |
+> *Beyond personal projects — actual businesses trust my code in production.*
 
-> ⭐ = Real client project delivered & live in production
+<table>
+<tr>
+
+<td align="center" width="50%">
+<br/>
+<img src="https://img.shields.io/badge/CLIENT_PROJECT_01-✅_LIVE_IN_PRODUCTION-22c55e?style=for-the-badge&labelColor=0f172a" />
+<br/><br/>
+<strong>🎓 Rise N Shine Coaching</strong>
+<br/><br/>
+<em>EdTech platform for a coaching institute — designed, built & deployed solo as a freelance project. Currently serving real students.</em>
+<br/><br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<br/><br/>
+<a href="https://www.risenshinecoaching.in/"><img src="https://img.shields.io/badge/🌐_View_Live_Site-risenshinecoaching.in-6366f1?style=flat-square" /></a>
+<br/><br/>
+</td>
+
+<td align="center" width="50%">
+<br/>
+<img src="https://img.shields.io/badge/CLIENT_PROJECT_02-✅_LIVE_IN_PRODUCTION-22c55e?style=for-the-badge&labelColor=0f172a" />
+<br/><br/>
+<strong>🏢 [Client 2 Name]</strong>
+<br/><br/>
+<em>Add a one-line description of your second client project here — what it does and who it serves.</em>
+<br/><br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<br/><br/>
+<a href="#"><img src="https://img.shields.io/badge/🌐_View_Live_Site-yoursite.com-6366f1?style=flat-square" /></a>
+<br/><br/>
+</td>
+
+</tr>
+</table>
+
+<sub>📌 Personal projects pinned below — MERN e-commerce, job portal & more.</sub>
 
 </div>
 
 ---
 
-## 🧠 What Makes Me Different
+## 🧠 Why Hire Me
 
 <div align="center">
+<br/>
 
-```
-  ┌─────────────────────────────────────────────────────────────────┐
-  │  🔀  Dual-stack  →  MERN for speed,  Java Spring Boot for scale  │
-  │  🤖  AI-first    →  OpenAI API, RAG, exploring LLM fine-tuning   │
-  │  🐳  DevOps      →  Docker, containerized deployments            │
-  │  🏗️  Design       →  Understands HLD/LLD, caching, microservices  │
-  │  📦  Ownership   →  Figma → Code → Deployed. Solo. End-to-end.  │
-  │  ⚡  Speed       →  2 client projects delivered on time          │
-  └─────────────────────────────────────────────────────────────────┘
-```
+<img src="https://img.shields.io/badge/─────────────────────────────────────────-0f172a?style=flat-square" width="0"/>
 
+| | | |
+|:---:|:---|:---|
+| 🔀 | **Dual Stack** | MERN for speed · Java Spring Boot for scale |
+| 🤖 | **AI-Ready** | OpenAI API · RAG · LLM fine-tuning in progress |
+| 🐳 | **Ships to Prod** | Docker · Vercel · Netlify · Real clients trust my deploys |
+| 🏗️ | **Thinks in Systems** | HLD/LLD · caching · microservices · DB design |
+| ⚡ | **Fast Learner** | Picked up TypeScript, Supabase & Spring Boot through projects |
+| 📦 | **Full Ownership** | Figma → Code → Deployed · Auth · Payments · Admin — solo |
+
+<br/>
 </div>
 
 ---
