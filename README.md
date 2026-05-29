@@ -198,13 +198,22 @@ const yogesh = {
 
 <div align="center">
 
-| Area | What |
-|:---:|---|
-| 🔬 | Fine-tuning Mistral / LLaMA on custom datasets with HuggingFace |
-| 🔗 | RAG pipelines — LangChain + vector DBs (Pinecone / ChromaDB) |
-| 🐳 | Docker Compose for multi-service full-stack deployments |
-| 📐 | System Design — HLD/LLD, CAP theorem, consistent hashing |
-| ☸️ | Kubernetes fundamentals for container orchestration |
+<img src="https://img.shields.io/badge/🔬_LLM_Fine--tuning-Mistral_%2F_LLaMA_on_custom_datasets-8b5cf6?style=for-the-badge&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/🔗_RAG_Pipelines-LangChain_%2B_Pinecone_%2F_ChromaDB-6366f1?style=for-the-badge&labelColor=0f172a" />
+<br/><br/>
+<img src="https://img.shields.io/badge/🐳_Docker_Compose-Multi--service_Full--stack_Deployments-0ea5e9?style=for-the-badge&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/🏗️_System_Design-HLD_%2F_LLD_%2C_CAP_Theorem,_Caching-f97316?style=for-the-badge&labelColor=0f172a" />
+<br/><br/>
+<img src="https://img.shields.io/badge/☸️_Kubernetes-Container_Orchestration_Fundamentals-22c55e?style=for-the-badge&labelColor=0f172a" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=pytorch,docker,kubernetes,linux&theme=dark&perline=8" />
+<br/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="28"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white" height="28"/>
 
 </div>
 
